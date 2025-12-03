@@ -1,0 +1,9 @@
+*.log
+.gitattributes
+.GetCoordvenv/
+.vtour/
+temp/
+output/
+output_temp/
+tmp/
+

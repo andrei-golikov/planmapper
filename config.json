@@ -1,0 +1,12 @@
+{
+  "downloader": {
+    "delay_seconds": 0.1,
+    "retry_cycles": 10,
+    "dynamic_backoff": false
+  },
+  "paths": {
+    "output_dir": "output",
+    "temp_dir": "output_temp",
+    "log_dir": "."
+  }
+}
